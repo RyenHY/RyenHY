@@ -5,7 +5,52 @@ I'm an experienced criminal investigator with a profound interest in technology 
 
 ## Objective
 
-As a recent Computer Science and Cyber Security postgraduate (MSc), and I am now eager to transition into the cyber security field, specifically aiming at roles within Digital Forensics/Incident Response (DFIR). This Github showcases the skills and projects I have completed to attain this goal.
+As a recent Computer Science and Cyber Security postgraduate (MSc), I am now eager to transition into the cyber security field, specifically aiming at roles within Digital Forensics/Incident Response (DFIR). This Github showcases the skills and projects I have completed to attain this goal.
+
+## Skills
+
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| Linux and BASH       | <a href="https://github.com/RyenHY/Detection-Lab/tree/main">Linux Lab</a>|
+
+
+## Tools
+
+### OS
+<div>
+    <img src="https://img.shields.io/badge/-Windows%20-005A9C?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%20-006400?&style=for-the-badge&logo=Linux&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-Azure-0089D6?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
+</div>
+
+## Certifications
+<div>
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional-FFD700?&style=for-the-badge&logo=Google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%3A%20Azure%20Fundamentals-0089D6?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft%3A%20Security%2C%20Compliance%2C%20and%20Identity%20Fundamentals-005A9C?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+</div>
+
+## Projects
+- <a href="https://github.com/RyenHY/Detection-Lab/tree/main">Linux Lab</a>
+
+<!--
+**RyenHY/RyenHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
 
 ## Skills
 
@@ -56,17 +101,4 @@ ChatGPT Example - Update this and use Amazon AWS instead
 - <a href="https://github.com/RyenHY/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 
-<!--
-**RyenHY/RyenHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
