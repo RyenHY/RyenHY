@@ -11,7 +11,7 @@ As a recent Computer Science and Cyber Security postgraduate (MSc), I am now eag
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Linux and BASH       | <a href="https://github.com/RyenHY/Detection-Lab/tree/main">Linux Lab</a>|
+| Linux and BASH       | <a href="https://github.com/RyenHY/Detection-Lab/tree/main">Linux </a>|
 
 
 ## Tools
@@ -35,7 +35,7 @@ As a recent Computer Science and Cyber Security postgraduate (MSc), I am now eag
 </div>
 
 ## Projects
-- <a href="https://github.com/RyenHY/Detection-Lab/tree/main">Linux Lab</a>
+- <a href="https://github.com/RyenHY/Detection-Lab/tree/main">Linux </a>
 
 <!--
 **RyenHY/RyenHY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
