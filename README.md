@@ -3,9 +3,6 @@
 
 I'm an experienced criminal investigator with a profound interest in tech and a dedication to solving complex problems.
 
-## Objective
-
-As a recent Computer Science and Cyber Security postgraduate (MSc), I am now eager to transition into the cyber security field, specifically aiming at roles within Digital Forensics/Incident Response (DFIR). This Github showcases the skills and projects I have completed to attain this goal.
 
 ## Skills
 
